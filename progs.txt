@@ -1,0 +1,40 @@
+
+1. **Find the maximum element in each row of a 2D array:**
+   This task involves iterating through each row of the 2D array and finding the maximum element in each row.
+    You'll need nested loops to iterate through rows and columns, keeping track of the maximum element encountered in each row.
+
+2. **Find the minimum element in each column of a 2D array:**
+   Similar to the previous task, but here you'll be finding the minimum element in each column of the 2D array. Again, nested loops are used to iterate through rows and columns, keeping track of the minimum element in each column.
+
+3. **Multiply two matrices:**
+   Matrix multiplication involves multiplying corresponding elements of rows and columns to produce the resulting matrix. This task requires understanding matrix multiplication rules and implementing them using nested loops to iterate through rows and columns of the matrices.
+
+4. **Check if a given 2D array is symmetric or not:**
+   A symmetric matrix is one where the transpose of the matrix is equal to the original matrix. To check symmetry, you need to compare each element with its corresponding element in the transposed matrix.
+
+5. **Find the sum of diagonal elements of a square matrix:**
+   For a square matrix, diagonal elements are those where the row index is equal to the column index. This task involves summing up these diagonal elements.
+
+6. **Find the saddle point of a matrix:**
+   A saddle point in a matrix is a point where it is the minimum element in its row and maximum element in its column. You need to find such points by iterating through rows and columns.
+
+7. **Rotate a matrix by 90 degrees clockwise:**
+   This task involves rotating a matrix by 90 degrees clockwise, which means each element in a row becomes an element in a column in the new matrix. You'll need to transpose the matrix first and then reverse the columns to achieve this rotation.
+
+8. **Check if a 1D array is palindrome or not:**
+   A palindrome is a sequence that reads the same forwards and backwards. To check if a 1D array is palindrome, you compare elements from the beginning with elements from the end until the midpoint of the array.
+
+9. **Merge two sorted arrays into a single sorted array:**
+   This task involves merging two sorted arrays into a single sorted array while maintaining the sorted order. You'll compare elements from both arrays and insert them into the merged array accordingly.
+
+10. **Remove duplicate elements from a 1D array:**
+    To remove duplicate elements from a 1D array, you iterate through the array and keep track of unique elements encountered so far.
+
+11. **Find the frequency of each element in a 1D array:**
+    This task involves counting the occurrences of each element in a 1D array and storing the frequency of each element.
+
+12. **Find the determinant of a 2x2 matrix:**
+    The determinant of a 2x2 matrix is calculated by subtracting the product of the diagonals. This task involves applying the determinant formula to a given 2x2 matrix.
+
+13. **Compute the sum of upper and lower triangles of a square matrix:**
+    For a square matrix, upper triangle elements are those where the row index is less than the column index, and lower triangle elements are where the row index is greater than the column index. This task involves summing up elements in these regions separately.
